@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: pycalico
+Version: 0.8.0.dev0
+Summary: A Python API to Calico
+Home-page: https://github.com/projectcalico/libcalico/
+Author: Project Calico
+Author-email: calico-tech@lists.projectcalico.org
+License: Apache 2.0
+Description: UNKNOWN
+Keywords: calico docker etcd mesos kubernetes rkt openstack
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: POSIX :: Linux
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: System :: Networking

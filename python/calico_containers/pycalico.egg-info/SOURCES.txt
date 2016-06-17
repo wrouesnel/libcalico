@@ -1,0 +1,14 @@
+calico_containers/pycalico/__init__.py
+calico_containers/pycalico/block.py
+calico_containers/pycalico/datastore.py
+calico_containers/pycalico/datastore_datatypes.py
+calico_containers/pycalico/datastore_errors.py
+calico_containers/pycalico/handle.py
+calico_containers/pycalico/ipam.py
+calico_containers/pycalico/netns.py
+calico_containers/pycalico/util.py
+calico_containers/pycalico.egg-info/PKG-INFO
+calico_containers/pycalico.egg-info/SOURCES.txt
+calico_containers/pycalico.egg-info/dependency_links.txt
+calico_containers/pycalico.egg-info/requires.txt
+calico_containers/pycalico.egg-info/top_level.txt
